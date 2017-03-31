@@ -469,21 +469,18 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #475577!important;
 }
-#msg-box6-1 .mbr-section-title,
-#msg-box6-1 .lead p {
-  color: #fff;
-}
 #form2-a .mbr-section-title {
   color: #fff;
 }
 #form2-a .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#msg-box2-3 .mbr-section-title {
-  color: #fff;
+#social-buttons2-m .mbr-section-title,
+#social-buttons2-m .btn-social {
+  color: #232323;
 }
-#msg-box2-3 .mbr-section-subtitle {
-  color: #a0a0a0;
+#social-buttons2-m .mbr-section-title {
+  color: #ffffff;
 }
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
